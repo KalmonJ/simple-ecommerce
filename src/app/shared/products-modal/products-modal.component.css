@@ -1,0 +1,22 @@
+.container__images{
+  margin-top: 3rem;
+  width: 50%;
+}
+
+.img__product-list{
+  width: 18.5%;
+  margin-right: 40px;
+  border-radius: 20px;
+}
+
+.container__thumbnail-images{
+  display: flex;
+  margin-top: 1.6rem;
+  width: 75.8%;
+}
+
+.img__product{
+  width: 75%;
+  border-radius: 20px;
+}
+
